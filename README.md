@@ -14,7 +14,8 @@ Working:
 In this first User login with Mail id & Password
 If user is not register then user register with Mail di & password 
 After login We can do on our To-do-List
-Add Todo
+
+- Add Todo
 - Update Todo
 - List Todo
 - Delete Todo
