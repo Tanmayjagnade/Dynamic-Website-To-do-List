@@ -1,4 +1,4 @@
-# To-do-List using Jsp,JDBC & Servlet
+# To-do-List using JSP,JDBC & Servlet
 
 We build a Todo web application using JSP, Servlet, JDBC and MySQL database.
 
